@@ -1,23 +1,21 @@
-# Travel Advisor
+# Sian Roses Travel Advisor
 
-![Travel Advisor](https://i.ibb.co/qph2cZn/image.pngg)
+![sian_travel_advisor_restaurants](https://user-images.githubusercontent.com/114652346/195294595-079f885d-efbf-4b7d-82f8-0b865af5f2bd.jpeg)
+![sian_travel_advisor_attractions](https://user-images.githubusercontent.com/114652346/195294672-65fbf74d-dde1-4e84-922d-2ab6b95cac1f.jpeg)
+![sian_travel_advisor_hotels](https://user-images.githubusercontent.com/114652346/195294717-4d117735-8b32-4317-a9b2-d101ad233086.jpeg)
+
 
 ## Introduction
-Build and Deploy an advanced Travel Companion Application using Google Maps. With Geolocation, Google Maps API, Searching for places, Fetching restaurants, hotels and attractions based on location from specialized Rapid APIs, data filtering and much more, this Travel Advisor App is the best Maps Application that you can currently find on YouTube and on the entire internet.
+This is an organization holiday assistant app. Top organizations such as Sian Roses definitely has employee vacations. So it's basically a web app that employees can use to scout for top restaurants, hotels and attractions during holidays. 
 
-In this video, you'll learn:
+Kindly visit https://sianroses-travel-advisor-ian-kaire.netlify.app/ on your desktop to find the hosted version of this app
+
+I have applied:
 
 - Advanced React Best Practices such as folder & file structure, hooks and refs
 - Creating a User Interface using Material UI
 - Working with Google Maps API
 - And most importantly fetching data from unlimited sources using RapidAPI
-- Essentially, you'll become the master of working with APIs
 
-[RapidAPI](https://rapidapi.com/hub?utm_source=youtube.com/JavaScriptMastery&utm_medium=DevRel&utm_campaign=DevRel)
-[Travel Advisor API](https://rapidapi.com/apidojo/api/travel-advisor?utm_source=youtube.com/JavaScriptMastery&utm_medium=DevRel&utm_campaign=DevRel)
-[Open Weather Map API](https://rapidapi.com/community/api/open-weather-map?utm_source=youtube.com/JavaScriptMastery&utm_medium=DevRel&utm_campaign=DevRel)
-
-## Stay up to date with new projects
-New major projects coming soon, subscribe to the mailing list to stay up to date https://javascriptmastery.eo.page/mailing-list.
-
+## Kick-starting the app
 Setup: run ```npm i && npm start``` to start the development server

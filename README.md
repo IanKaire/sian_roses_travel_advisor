@@ -8,7 +8,7 @@
 ## Introduction
 This is an organization holiday assistant app. Top organizations such as Sian Roses definitely has employee vacations. So it's basically a web app that employees can use to scout for top restaurants, hotels and attractions during holidays. 
 
-Kindly visit https://sianroses-travel-advisor-ian-kaire.netlify.app/ on your desktop to find the hosted version of this app
+Kindly visit https://sianroses-travel-advisor-ian-kaire.netlify.app/ on your desktop to find the hosted version of this app. Note that the link is not supported on phone since it's custom domain (DNS issues). Use your desktop or laptop to view it
 
 I have applied:
 
